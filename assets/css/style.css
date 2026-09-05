@@ -51,6 +51,15 @@ h2 {
     font-size: 1.2rem;
 
 }
+
+.sharp-corners,
+.sharp-corners *
+{
+    border-radius: 0;
+
+}
+
+
 #portfolio .btn-outline-secondary:hover {
     background-color: #1f7798; /*mid-blue*/;
 }
