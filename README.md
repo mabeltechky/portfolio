@@ -28,8 +28,23 @@ The website was manually tested to ensure that:
 - Buttons and links work as expected.
 
 ## Deployment
+This website was deployed using GitHub Pages.
+
+To deploy the project:
+
+1. Navigate to the repository on GitHub.
+2. Go to **Settings** and select **Pages**.
+3. Under **Build and deployment**, select **Deploy from a branch**.
+4. Select the **main** branch and **/(root)** folder.
+5. Click **Save**.
+6. Once the deployment is complete, the live website can be accessed through the link provided by GitHub Pages.
 
 ## Credits
 
 - Code Institute - for the project guidance and learning materials.
 - Bootstrap - for the responsive framework and components used throughout the website.
+
+### Live Website
+
+[View the live website](https://mabeltechky.github.io/portfolio/)
+
